@@ -11,7 +11,7 @@ LUCI_BASENAME:=luci
 
 LUCI_TITLE:=LuCI interface with Uhttpd as Webserver (default)
 LUCI_DESCRIPTION:=Standard OpenWrt set including package management and attended sysupgrades support
-LUCI_DEPENDS:= \
+LUCI_DEPENDS:= luci-theme-argonv3\
 	+luci-light \
 	+luci-app-opkg
 
