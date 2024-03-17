@@ -1,5 +1,2 @@
 msgid "Control"
 msgstr "管控"
-
-msgid "Blacklist"
-msgstr "黑名单"
